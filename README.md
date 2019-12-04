@@ -21,13 +21,13 @@ Before every week the resources will be updated here with a task to be completed
 #### Week 1
 1. Installing Flutter 
  
- (i) [Blog] https://flutter.dev/docs/get-started/install/windows 
+   (i) [Blog] https://flutter.dev/docs/get-started/install/windows 
  
- (ii) [Blog] https://enappd.com/blog/setup-flutter-in-windows-and-mac/36/
+   (ii) [Blog] https://enappd.com/blog/setup-flutter-in-windows-and-mac/36/
  
- (iii) [video] https://www.youtube.com/watch?v=M3UfYS0bqhE [For windows]
+   (iii) [video] https://www.youtube.com/watch?v=M3UfYS0bqhE [For windows]
  
- (iv) [video] https://www.youtube.com/watch?v=Xy-qHlaHr6c [For Mac]
+   (iv) [video] https://www.youtube.com/watch?v=Xy-qHlaHr6c [For Mac]
 
 2. Learn the basics of Dart
 The basics contains
