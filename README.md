@@ -9,3 +9,13 @@ Some things to note:
 3. Each week you will be provided with a task to complete which is to be completed in the same week. You will be submitting the code and screen recording of the task you have completed so that I can validate the completion of the task.
 
 For any issues with the GirlScript Winter Mentorship Programme please contact Arpith or Akshatha.
+
+# Prerequisites 
+There are some major pre-requisites if you really want gain out of this 4 week lonk programme
+1. An open mind to learn new things
+2. Dedication towards learning
+This will suffice 
+
+# Resources 
+Before every week the resources will be updated here with a task to be completed. 
+## Week 1
