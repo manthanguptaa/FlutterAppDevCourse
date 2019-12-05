@@ -59,3 +59,6 @@ Dart Syntax, Data Types, Operators, Loops, Lists, Lists Operations, Maps, Functi
 Create a simple layout of your choice.
 
 That's all for this week ! Meet you in the next week with new resources
+
+#### Week2
+
