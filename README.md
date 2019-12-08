@@ -18,7 +18,7 @@ This will suffice
 
 # Resources 
 Before every week the resources will be updated here with a task to be completed. You can choose any medium to study. I am providing both blogs and video. Study as per your convenience.
-#### Week 1
+### Week 1
 1. Installing Flutter 
  
    (i) [Blog] https://flutter.dev/docs/get-started/install/windows 
@@ -58,7 +58,19 @@ Dart Syntax, Data Types, Operators, Loops, Lists, Lists Operations, Maps, Functi
 ### Task
 Create a simple layout of your choice.
 
-That's all for this week ! Meet you in the next week with new resources
 
-#### Week2
+### Week2
+1. Stateless vs Stateful Widgets
+
+   (i) [Blog] https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae
+   
+2. Learning Widgets (Advanced)
+Follow the tutorial completely 
+
+    [video] https://www.youtube.com/watch?v=h-igXZCCrrc&t=10s
+    
+### Task
+Complete the tutorial above to complete this weeks task.
+
+That's all for this week ! Meet you in the next week with new resources
 
