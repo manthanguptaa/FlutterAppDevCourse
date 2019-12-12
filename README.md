@@ -71,8 +71,11 @@ Follow the tutorial completely
     
 3. Login Screen with connecting to Firebase
 Follow the tutorial completely
+
     [video pt.1] https://www.youtube.com/watch?v=13-jNF984C0
+    
     [video pt.2] https://www.youtube.com/watch?v=bXlMNfwhlwg
+    
     [video pt.3] https://www.youtube.com/watch?v=Wk80Meyk7PM
     
 ### Task
