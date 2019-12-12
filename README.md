@@ -69,8 +69,14 @@ Follow the tutorial completely
 
     [video] https://www.youtube.com/watch?v=h-igXZCCrrc&t=10s
     
+3. Login Screen with connecting to Firebase
+Follow the tutorial completely
+    [video pt.1] https://www.youtube.com/watch?v=13-jNF984C0
+    [video pt.2] https://www.youtube.com/watch?v=bXlMNfwhlwg
+    [video pt.3] https://www.youtube.com/watch?v=Wk80Meyk7PM
+    
 ### Task
-Complete the tutorial above to complete this weeks task.
+Complete the tutorials to complete this weeks task.
 
 That's all for this week ! Meet you in the next week with new resources
 
