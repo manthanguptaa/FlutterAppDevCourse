@@ -65,11 +65,13 @@ Create a simple layout of your choice.
    (i) [Blog] https://medium.com/flutter-community/flutter-stateful-vs-stateless-db325309deae
    
 2. Learning Widgets (Advanced)
+
 Follow the tutorial completely 
 
     [video] https://www.youtube.com/watch?v=h-igXZCCrrc&t=10s
     
 3. Login Screen with connecting to Firebase
+
 Follow the tutorial completely
 
     [video pt.1] https://www.youtube.com/watch?v=13-jNF984C0
@@ -80,6 +82,8 @@ Follow the tutorial completely
     
 ### Task
 Complete the tutorials to complete this weeks task.
+
+### Week 3
 
 That's all for this week ! Meet you in the next week with new resources
 
