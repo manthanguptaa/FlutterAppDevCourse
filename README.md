@@ -68,17 +68,17 @@ Create a simple layout of your choice.
 
 Follow the tutorial completely 
 
-    [video] https://www.youtube.com/watch?v=h-igXZCCrrc&t=10s
+   (i) [video] https://www.youtube.com/watch?v=h-igXZCCrrc&t=10s
     
 3. Login Screen with connecting to Firebase
 
 Follow the tutorial completely
 
-    [video pt.1] https://www.youtube.com/watch?v=13-jNF984C0
+   (i) [video pt.1] https://www.youtube.com/watch?v=13-jNF984C0
     
-    [video pt.2] https://www.youtube.com/watch?v=bXlMNfwhlwg
+   (ii) [video pt.2] https://www.youtube.com/watch?v=bXlMNfwhlwg
     
-    [video pt.3] https://www.youtube.com/watch?v=Wk80Meyk7PM
+   (iii) [video pt.3] https://www.youtube.com/watch?v=Wk80Meyk7PM
     
 ### Task
 Complete the tutorials to complete this weeks task.
