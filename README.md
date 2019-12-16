@@ -85,5 +85,21 @@ Complete the tutorials to complete this weeks task.
 
 ### Week 3
 
+1. Using API in Flutter
+   Follow the tutorial and also rectify the error in the end of the video
+   
+   (i) [video] https://www.youtube.com/watch?v=yeXJqZCiwTQ
+   
+2. Making a News Reader App 
+
+   (i) [video] https://www.youtube.com/watch?v=nRBE6Ligmv4
+   
+### Task
+Create a Weather Forecasting app using an API. The link to API is provided below.
+
+NOTE: The design should be your own
+
+Link of the API : https://openweathermap.org/api
+
 That's all for this week ! Meet you in the next week with new resources
 
