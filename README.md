@@ -101,5 +101,11 @@ NOTE: The design should be your own
 
 Link of the API : https://openweathermap.org/api
 
-That's all for this week ! Meet you in the next week with new resources
+You are entering into the final week
+
+# Week 4
+
+Make an app of your choice this week and submit it to finish off your 4 week long Winter Mentorship Program.
+
+Thanks for joining !
 
