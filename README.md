@@ -4,11 +4,9 @@ This repository will contain all the study material like videos and blogs for yo
 2. You have prior knowledge in some other language.
 
 Some things to note:
-1. For any doubts, you can contact me on whatsapp in the group.
+1. For any doubts, you can contact me on LinkedIn.
 2. I encourage searching on google your doubts before asking to me as it will inculcate a strong habit of solving your problems on your own using google.
 3. Each week you will be provided with a task to complete which is to be completed in the same week. You will be submitting the code and screen recording of the task you have completed so that I can validate the completion of the task.
-
-For any issues with the GirlScript Winter Mentorship Programme please contact Arpith or Akshatha.
 
 # Prerequisites 
 There are some major pre-requisites if you really want gain out of this 4 week lonk programme
@@ -35,13 +33,13 @@ Dart Syntax, Data Types, Operators, Loops, Lists, Lists Operations, Maps, Functi
  
    (i) [Reading Resource] https://www.tutorialspoint.com/dart_programming/index.htm
  
-   (ii) [Blog Pt.1]http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-01-variables-types-and-functions/
+   (ii) [Blog Pt.1] https://medium.com/@manthangupta109/learn-just-enough-dart-for-flutter-part-1-c8f3b20bd6d2
  
-   (iii) [Blog Pt.2] http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-02-control-flow-and-exception-handling/
+   (iii) [Blog Pt.2] https://medium.com/@manthangupta109/learn-just-enough-dart-for-flutter-part-2-52d7828e93ce
  
-   (iv) [Blog Pt.3] http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-03-classes-and-generics/
+   (iv) [Blog Pt.3] https://medium.com/@manthangupta109/learn-just-enough-dart-for-flutter-part-3-427e713c895a
  
-   (v) [Blog Pt.4] http://thetechnocafe.com/just-enough-dart-for-flutter-tutorial-04-asynchronous-and-libraries/
+   (v) [Blog Pt.4] https://medium.com/@manthangupta109/learn-just-enough-dart-for-flutter-part-4-1734648c9a01
  
    (vi) [Video] https://www.youtube.com/watch?v=Ej_Pcr4uC2Q
 
@@ -94,6 +92,11 @@ Complete the tutorials to complete this weeks task.
 
    (i) [video] https://www.youtube.com/watch?v=nRBE6Ligmv4
    
+3. BMI App
+   Follow the blog and build the app and you can try adding new elements to it to add your twist
+   
+   (i) [blog] https://medium.com/@manthangupta109/building-a-bmi-app-with-flutter-f14dfe2348
+   
 ### Task
 Create a Weather Forecasting app using an API. The link to API is provided below.
 
@@ -105,7 +108,7 @@ You are entering into the final week
 
 # Week 4
 
-Make an app of your choice this week and submit it to finish off your 4 week long Winter Mentorship Program.
+Make an app of your choice this week and submit it to finish off your 4 week long Roadmap.
 
 Thanks for joining !
 
