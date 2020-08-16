@@ -1,4 +1,4 @@
-# FlutterAppDev Winter Mentorship
+# Flutter Roadmap
 This repository will contain all the study material like videos and blogs for you to read over the period of 4 weeks. Few assumptions for your consideration
 1. You are free for next 4 weeks and ready to dedicate your precious time to this.
 2. You have prior knowledge in some other language.
