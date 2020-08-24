@@ -78,6 +78,10 @@ Create a simple layout of your choice.
     
     (iii) [video pt.3] https://www.youtube.com/watch?v=Wk80Meyk7PM
     
+ 4. State Management
+ 
+    (i) [blog] https://medium.com/flutterpub/provider-state-management-in-flutter-d453e73537c5
+    
 ### Task
 Complete the tutorials to complete this weeks task.
 
